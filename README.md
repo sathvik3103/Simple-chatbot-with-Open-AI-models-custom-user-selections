@@ -78,3 +78,11 @@ The application uses LangChain for enhanced tracking and monitoring:
 - Validates API key presence
 - Ensures user input before generating responses
 - Provides clear feedback for missing inputs
+
+Example output for reference:
+![Example Output for reference](https://github.com/user-attachments/assets/c2d70073-6e40-4991-9add-674b85919e0e)
+
+Langsmith Project Tracking:
+![Langsmith project tracking](https://github.com/user-attachments/assets/8ea5e0e8-098a-4883-9fe7-424fd825df0b)
+
+
